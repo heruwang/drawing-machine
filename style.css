@@ -5,3 +5,8 @@ html, body {
 canvas {
   display: block;
 }
+
+.container{
+  margin:10%;
+  text-align: center;
+}
