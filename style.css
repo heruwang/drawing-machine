@@ -3,10 +3,11 @@ html {
   padding: 0;
 }
 canvas {
-  display: block;
-  border: 5px solid black;
-  text-align: center;
-  margin: 0 auto 0 auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: auto;
+  z-index:-1;
 }
 body{
   margin: 100px auto 0 auto;
